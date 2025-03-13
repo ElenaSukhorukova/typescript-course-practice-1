@@ -1,7 +1,7 @@
 import { useRef } from "react";
 
 import Input from "./components/Input";
-import Form, {type FormHandle } from './components/Form';
+import Form, { type FormHandle } from './components/Form';
 import Button from "./components/Button";
 import Container from "./components/Container";
 
